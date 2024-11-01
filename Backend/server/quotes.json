@@ -1,0 +1,542 @@
+[
+    {
+        "Id": 0,
+        "quotes": "The world as we have created it is a process of our thinking. It cannot be changed without changing our thinking.",
+        "authors": "Albert Einstein",
+        "tags": ["change", "deep-thoughts", "thinking", "world"]
+    },
+    {
+        "Id": 1,
+        "quotes": "It is our choices, Harry, that show what we truly are, far more than our abilities.",
+        "authors": "J.K. Rowling",
+        "tags": ["abilities", "choices"]
+    },
+    {
+        "Id": 2,
+        "quotes": "There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.",
+        "authors": "Albert Einstein",
+        "tags": ["inspirational", "life", "live", "miracle", "miracles"]
+    },
+    {
+        "Id": 3,
+        "quotes": "The person, be it gentleman or lady, who has not pleasure in a good novel, must be intolerably stupid.",
+        "authors": "Jane Austen",
+        "tags": ["aliteracy", "books", "classic", "humor"]
+    },
+    {
+        "Id": 4,
+        "quotes": "Imperfection is beauty, madness is genius and it's better to be absolutely ridiculous than absolutely boring.",
+        "authors": "Marilyn Monroe",
+        "tags": ["be-yourself", "inspirational"]
+    },
+    {
+        "Id": 5,
+        "quotes": "Try not to become a man of success. Rather become a man of value.",
+        "authors": "Albert Einstein",
+        "tags": ["adulthood", "success", "value"]
+    },
+    {
+        "Id": 6,
+        "quotes": "It is better to be hated for what you are than to be loved for what you are not.",
+        "authors": "Andr\u00e9 Gide",
+        "tags": ["life", "love"]
+    },
+    {
+        "Id": 7,
+        "quotes": "I have not failed. I've just found 10,000 ways that won't work.",
+        "authors": "Thomas A. Edison",
+        "tags": ["edison", "failure", "inspirational", "paraphrased"]
+    },
+    {
+        "Id": 8,
+        "quotes": "A woman is like a tea bag; you never know how strong it is until it's in hot water.",
+        "authors": "Eleanor Roosevelt",
+        "tags": ["misattributed-eleanor-roosevelt"]
+    },
+    {
+        "Id": 9,
+        "quotes": "A day without sunshine is like, you know, night.",
+        "authors": "Steve Martin",
+        "tags": ["humor", "obvious", "simile"]
+    },
+    {
+        "Id": 10,
+        "quotes": "This life is what you make it. No matter what, you're going to mess up sometimes, it's a universal truth. But the good part is you get to decide how you're going to mess it up. Girls will be your friends - they'll act like it anyway. But just remember, some come, some go. The ones that stay with you through everything - they're your true best friends. Don't let go of them. Also remember, sisters make the best friends in the world. As for lovers, well, they'll come and go too. And baby, I hate to say it, most of them - actually pretty much all of them are going to break your heart, but you can't give up because if you give up, you'll never find your soulmate. You'll never find that half who makes you whole and that goes for everything. Just because you fail once, doesn't mean you're gonna fail at everything. Keep trying, hold on, and always, always, always believe in yourself, because if you don't, then who will, sweetie? So keep your head high, keep your chin up, and most importantly, keep smiling, because life's a beautiful thing and there's so much to smile about.",
+        "authors": "Marilyn Monroe",
+        "tags": ["friends", "heartbreak", "inspirational", "life", "love", "sisters"]
+    },
+    {
+        "Id": 11,
+        "quotes": "It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends.",
+        "authors": "J.K. Rowling",
+        "tags": ["courage", "friends"]
+    },
+    {
+        "Id": 12,
+        "quotes": "If you can't explain it to a six year old, you don't understand it yourself.",
+        "authors": "Albert Einstein",
+        "tags": ["simplicity", "understand"]
+    },
+    {
+        "Id": 13,
+        "quotes": "You may not be her first, her last, or her only. She loved before she may love again. But if she loves you now, what else matters? She's not perfect you aren't either, and the two of you may never be perfect together but if she can make you laugh, cause you to think twice, and admit to being human and making mistakes, hold onto her and give her the most you can. She may not be thinking about you every second of the day, but she will give you a part of her that she knows you can break her heart. So don't hurt her, don't change her, don't analyze and don't expect more than she can give. Smile when she makes you happy, let her know when she makes you mad, and miss her when she's not there.",
+        "authors": "Bob Marley",
+        "tags": ["love"]
+    },
+    {
+        "Id": 14,
+        "quotes": "I like nonsense, it wakes up the brain cells. Fantasy is a necessary ingredient in living.",
+        "authors": "Dr. Seuss",
+        "tags": ["fantasy"]
+    },
+    {
+        "Id": 15,
+        "quotes": "I may not have gone where I intended to go, but I think I have ended up where I needed to be.",
+        "authors": "Douglas Adams",
+        "tags": ["life", "navigation"]
+    },
+    {
+        "Id": 16,
+        "quotes": "The opposite of love is not hate, it's indifference. The opposite of art is not ugliness, it's indifference. The opposite of faith is not heresy, it's indifference. And the opposite of life is not death, it's indifference.",
+        "authors": "Elie Wiesel",
+        "tags": ["activism", "apathy", "hate", "indifference", "inspirational", "love", "opposite", "philosophy"]
+    },
+    {
+        "Id": 17,
+        "quotes": "It is not a lack of love, but a lack of friendship that makes unhappy marriages.",
+        "authors": "Friedrich Nietzsche",
+        "tags": ["friendship", "lack-of-friendship", "lack-of-love", "love", "marriage", "unhappy-marriage"]
+    },
+    {
+        "Id": 18,
+        "quotes": "Good friends, good books, and a sleepy conscience: this is the ideal life.",
+        "authors": "Mark Twain",
+        "tags": ["books", "contentment", "friends", "friendship", "life"]
+    },
+    {
+        "Id": 19,
+        "quotes": "Life is what happens to us while we are making other plans.",
+        "authors": "Allen Saunders",
+        "tags": ["fate", "life", "misattributed-john-lennon", "planning", "plans"]
+    },
+    {
+        "Id": 20,
+        "quotes": "I love you without knowing how, or when, or from where. I love you simply, without problems or pride: I love you in this way because I do not know any other way of loving but this, in which there is no I or you, so intimate that your hand upon my chest is my hand, so intimate that when I fall asleep your eyes close.",
+        "authors": "Pablo Neruda",
+        "tags": ["love", "poetry"]
+    },
+    {
+        "Id": 21,
+        "quotes": "For every minute you are angry you lose sixty seconds of happiness.",
+        "authors": "Ralph Waldo Emerson",
+        "tags": ["happiness"]
+    },
+    {
+        "Id": 22,
+        "quotes": "If you judge people, you have no time to love them.",
+        "authors": "Mother Teresa",
+        "tags": ["attributed-no-source"]
+    },
+    {
+        "Id": 23,
+        "quotes": "Anyone who thinks sitting in church can make you a Christian must also think that sitting in a garage can make you a car.",
+        "authors": "Garrison Keillor",
+        "tags": ["humor", "religion"]
+    },
+    {
+        "Id": 24,
+        "quotes": "Beauty is in the eye of the beholder and it may be necessary from time to time to give a stupid or misinformed beholder a black eye.",
+        "authors": "Jim Henson",
+        "tags": ["humor"]
+    },
+    {
+        "Id": 25,
+        "quotes": "Today you are You, that is truer than true. There is no one alive who is Youer than You.",
+        "authors": "Dr. Seuss",
+        "tags": ["comedy", "life", "yourself"]
+    },
+    {
+        "Id": 26,
+        "quotes": "If you want your children to be intelligent, read them fairy tales. If you want them to be more intelligent, read them more fairy tales.",
+        "authors": "Albert Einstein",
+        "tags": ["children", "fairy-tales"]
+    },
+    {
+        "Id": 27,
+        "quotes": "It is impossible to live without failing at something, unless you live so cautiously that you might as well not have lived at all - in which case, you fail by default.",
+        "authors": "J.K. Rowling",
+        "tags": []
+    },
+    {
+        "Id": 28,
+        "quotes": "Logic will get you from A to Z; imagination will get you everywhere.",
+        "authors": "Albert Einstein",
+        "tags": ["imagination"]
+    },
+    {
+        "Id": 29,
+        "quotes": "One good thing about music, when it hits you, you feel no pain.",
+        "authors": "Bob Marley",
+        "tags": ["music"]
+    },
+    {
+        "Id": 30,
+        "quotes": "The more that you read, the more things you will know. The more that you learn, the more places you'll go.",
+        "authors": "Dr. Seuss",
+        "tags": ["learning", "reading", "seuss"]
+    },
+    {
+        "Id": 31,
+        "quotes": "Of course it is happening inside your head, Harry, but why on earth should that mean that it is not real?",
+        "authors": "J.K. Rowling",
+        "tags": ["dumbledore"]
+    },
+    {
+        "Id": 32,
+        "quotes": "The truth is, everyone is going to hurt you. You just got to find the ones worth suffering for.",
+        "authors": "Bob Marley",
+        "tags": ["friendship"]
+    },
+    {
+        "Id": 33,
+        "quotes": "Not all of us can do great things. But we can do small things with great love.",
+        "authors": "Mother Teresa",
+        "tags": ["misattributed-to-mother-teresa", "paraphrased"]
+    },
+    {
+        "Id": 34,
+        "quotes": "To the well-organized mind, death is but the next great adventure.",
+        "authors": "J.K. Rowling",
+        "tags": ["death", "inspirational"]
+    },
+    {
+        "Id": 35,
+        "quotes": "All you need is love. But a little chocolate now and then doesn't hurt.",
+        "authors": "Charles M. Schulz",
+        "tags": ["chocolate", "food", "humor"]
+    },
+    {
+        "Id": 36,
+        "quotes": "We read to know we're not alone.",
+        "authors": "William Nicholson",
+        "tags": ["misattributed-to-c-s-lewis", "reading"]
+    },
+    {
+        "Id": 37,
+        "quotes": "Any fool can know. The point is to understand.",
+        "authors": "Albert Einstein",
+        "tags": ["knowledge", "learning", "understanding", "wisdom"]
+    },
+    {
+        "Id": 38,
+        "quotes": "I have always imagined that Paradise will be a kind of library.",
+        "authors": "Jorge Luis Borges",
+        "tags": ["books", "library"]
+    },
+    {
+        "Id": 39,
+        "quotes": "It is never too late to be what you might have been.",
+        "authors": "George Eliot",
+        "tags": ["inspirational"]
+    },
+    {
+        "Id": 40,
+        "quotes": "A reader lives a thousand lives before he dies, said Jojen. The man who never reads lives only one.",
+        "authors": "George R.R. Martin",
+        "tags": ["read", "readers", "reading", "reading-books"]
+    },
+    {
+        "Id": 41,
+        "quotes": "You can never get a cup of tea large enough or a book long enough to suit me.",
+        "authors": "C.S. Lewis",
+        "tags": ["books", "inspirational", "reading", "tea"]
+    },
+    {
+        "Id": 42,
+        "quotes": "You believe lies so you eventually learn to trust no one but yourself.",
+        "authors": "Marilyn Monroe",
+        "tags": []
+    },
+    {
+        "Id": 43,
+        "quotes": "If you can make a woman laugh, you can make her do anything.",
+        "authors": "Marilyn Monroe",
+        "tags": ["girls", "love"]
+    },
+    {
+        "Id": 44,
+        "quotes": "Life is like riding a bicycle. To keep your balance, you must keep moving.",
+        "authors": "Albert Einstein",
+        "tags": ["life", "simile"]
+    },
+    {
+        "Id": 45,
+        "quotes": "The real lover is the man who can thrill you by kissing your forehead or smiling into your eyes or just staring into space.",
+        "authors": "Marilyn Monroe",
+        "tags": ["love"]
+    },
+    {
+        "Id": 46,
+        "quotes": "A wise girl kisses but doesn't love, listens but doesn't believe, and leaves before she is left.",
+        "authors": "Marilyn Monroe",
+        "tags": ["attributed-no-source"]
+    },
+    {
+        "Id": 47,
+        "quotes": "Only in the darkness can you see the stars.",
+        "authors": "Martin Luther King Jr.",
+        "tags": ["hope", "inspirational"]
+    },
+    {
+        "Id": 48,
+        "quotes": "It matters not what someone is born, but what they grow to be.",
+        "authors": "J.K. Rowling",
+        "tags": ["dumbledore"]
+    },
+    {
+        "Id": 49,
+        "quotes": "Love does not begin and end the way we seem to think it does. Love is a battle, love is a war; love is a growing up.",
+        "authors": "James Baldwin",
+        "tags": ["love"]
+    },
+    {
+        "Id": 50,
+        "quotes": "There is nothing I would not do for those who are really my friends. I have no notion of loving people by halves, it is not my nature.",
+        "authors": "Jane Austen",
+        "tags": ["friendship", "love"]
+    },
+    {
+        "Id": 51,
+        "quotes": "Do one thing every day that scares you.",
+        "authors": "Eleanor Roosevelt",
+        "tags": ["attributed", "fear", "inspiration"]
+    },
+    {
+        "Id": 52,
+        "quotes": "I am good, but not an angel. I do sin, but I am not the devil. I am just a small girl in a big world trying to find someone to love.",
+        "authors": "Marilyn Monroe",
+        "tags": ["attributed-no-source"]
+    },
+    {
+        "Id": 53,
+        "quotes": "If I were not a physicist, I would probably be a musician. I often think in music. I live my daydreams in music. I see my life in terms of music.",
+        "authors": "Albert Einstein",
+        "tags": ["music"]
+    },
+    {
+        "Id": 54,
+        "quotes": "If you only read the books that everyone else is reading, you can only think what everyone else is thinking.",
+        "authors": "Haruki Murakami",
+        "tags": ["books", "thought"]
+    },
+    {
+        "Id": 55,
+        "quotes": "The difference between genius and stupidity is: genius has its limits.",
+        "authors": "Alexandre Dumas fils",
+        "tags": ["misattributed-to-einstein"]
+    },
+    {
+        "Id": 56,
+        "quotes": "He's like a drug for you, Bella.",
+        "authors": "Stephenie Meyer",
+        "tags": ["drug", "romance", "simile"]
+    },
+    {
+        "Id": 57,
+        "quotes": "There is no friend as loyal as a book.",
+        "authors": "Ernest Hemingway",
+        "tags": ["books", "friends", "novelist-quotes"]
+    },
+    {
+        "Id": 58,
+        "quotes": "When one door of happiness closes, another opens; but often we look so long at the closed door that we do not see the one which has been opened for us.",
+        "authors": "Helen Keller",
+        "tags": ["inspirational"]
+    },
+    {
+        "Id": 59,
+        "quotes": "Life isn't about finding yourself. Life is about creating yourself.",
+        "authors": "George Bernard Shaw",
+        "tags": ["inspirational", "life", "yourself"]
+    },
+    {
+        "Id": 60,
+        "quotes": "That's the problem with drinking, I thought, as I poured myself a drink. If something bad happens you drink in an attempt to forget; if something good happens you drink in order to celebrate; and if nothing happens you drink to make something happen.",
+        "authors": "Charles Bukowski",
+        "tags": ["alcohol"]
+    },
+    {
+        "Id": 61,
+        "quotes": "You don\u2019t forget the face of the person who was your last hope.",
+        "authors": "Suzanne Collins",
+        "tags": ["the-hunger-games"]
+    },
+    {
+        "Id": 62,
+        "quotes": "Remember, we're madly in love, so it's all right to kiss me anytime you feel like it.",
+        "authors": "Suzanne Collins",
+        "tags": ["humor"]
+    },
+    {
+        "Id": 63,
+        "quotes": "To love at all is to be vulnerable. Love anything and your heart will be wrung and possibly broken. If you want to make sure of keeping it intact you must give it to no one, not even an animal. Wrap it carefully round with hobbies and little luxuries; avoid all entanglements. Lock it up safe in the casket or coffin of your selfishness. But in that casket, safe, dark, motionless, airless, it will change. It will not be broken; it will become unbreakable, impenetrable, irredeemable. To love is to be vulnerable.",
+        "authors": "C.S. Lewis",
+        "tags": ["love"]
+    },
+    {
+        "Id": 64,
+        "quotes": "Not all those who wander are lost.",
+        "authors": "J.R.R. Tolkien",
+        "tags": ["bilbo", "journey", "lost", "quest", "travel", "wander"]
+    },
+    {
+        "Id": 65,
+        "quotes": "Do not pity the dead, Harry. Pity the living, and, above all those who live without love.",
+        "authors": "J.K. Rowling",
+        "tags": ["live-death-love"]
+    },
+    {
+        "Id": 66,
+        "quotes": "There is nothing to writing. All you do is sit down at a typewriter and bleed.",
+        "authors": "Ernest Hemingway",
+        "tags": ["good", "writing"]
+    },
+    {
+        "Id": 67,
+        "quotes": "Finish each day and be done with it. You have done what you could. Some blunders and absurdities no doubt crept in; forget them as soon as you can. Tomorrow is a new day. You shall begin it serenely and with too high a spirit to be encumbered with your old nonsense.",
+        "authors": "Ralph Waldo Emerson",
+        "tags": ["life", "regrets"]
+    },
+    {
+        "Id": 68,
+        "quotes": "I have never let my schooling interfere with my education.",
+        "authors": "Mark Twain",
+        "tags": ["education"]
+    },
+    {
+        "Id": 69,
+        "quotes": "I have heard there are troubles of more than one kind. Some come from ahead and some come from behind. But I've bought a big bat. I'm all ready you see. Now my troubles are going to have troubles with me!",
+        "authors": "Dr. Seuss",
+        "tags": ["troubles"]
+    },
+    {
+        "Id": 70,
+        "quotes": "If I had a flower for every time I thought of you...I could walk through my garden forever.",
+        "authors": "Alfred Tennyson",
+        "tags": ["friendship", "love"]
+    },
+    {
+        "Id": 71,
+        "quotes": "Some people never go crazy. What truly horrible lives they must lead.",
+        "authors": "Charles Bukowski",
+        "tags": ["humor"]
+    },
+    {
+        "Id": 72,
+        "quotes": "The trouble with having an open mind, of course, is that people will insist on coming along and trying to put things in it.",
+        "authors": "Terry Pratchett",
+        "tags": ["humor", "open-mind", "thinking"]
+    },
+    {
+        "Id": 73,
+        "quotes": "Think left and think right and think low and think high. Oh, the thinks you can think up if only you try!",
+        "authors": "Dr. Seuss",
+        "tags": ["humor", "philosophy"]
+    },
+    {
+        "Id": 74,
+        "quotes": "What really knocks me out is a book that, when you're all done reading it, you wish the author that wrote it was a terrific friend of yours and you could call him up on the phone whenever you felt like it. That doesn't happen much, though.",
+        "authors": "J.D. Salinger",
+        "tags": ["authors", "books", "literature", "reading", "writing"]
+    },
+    {
+        "Id": 75,
+        "quotes": "The reason I talk to myself is because I\u2019m the only one whose answers I accept.",
+        "authors": "George Carlin",
+        "tags": ["humor", "insanity", "lies", "lying", "self-indulgence", "truth"]
+    },
+    {
+        "Id": 76,
+        "quotes": "You may say I'm a dreamer, but I'm not the only one. I hope someday you'll join us. And the world will live as one.",
+        "authors": "John Lennon",
+        "tags": ["beatles", "connection", "dreamers", "dreaming", "dreams", "hope", "inspirational", "peace"]
+    },
+    {
+        "Id": 77,
+        "quotes": "I am free of all prejudice. I hate everyone equally. ",
+        "authors": "W.C. Fields",
+        "tags": ["humor", "sinister"]
+    },
+    {
+        "Id": 78,
+        "quotes": "The question isn't who is going to let me; it's who is going to stop me.",
+        "authors": "Ayn Rand",
+        "tags": []
+    },
+    {
+        "Id": 79,
+        "quotes": "Classic - a book which people praise and don't read.",
+        "authors": "Mark Twain",
+        "tags": ["books", "classic", "reading"]
+    },
+    {
+        "Id": 80,
+        "quotes": "Anyone who has never made a mistake has never tried anything new.",
+        "authors": "Albert Einstein",
+        "tags": ["mistakes"]
+    },
+    {
+        "Id": 81,
+        "quotes": "A lady's imagination is very rapid; it jumps from admiration to love, from love to matrimony in a moment.",
+        "authors": "Jane Austen",
+        "tags": ["humor", "love", "romantic", "women"]
+    },
+    {
+        "Id": 82,
+        "quotes": "Remember, if the time should come when you have to make a choice between what is right and what is easy, remember what happened to a boy who was good, and kind, and brave, because he strayed across the path of Lord Voldemort. Remember Cedric Diggory.",
+        "authors": "J.K. Rowling",
+        "tags": ["integrity"]
+    },
+    {
+        "Id": 83,
+        "quotes": "I declare after all there is no enjoyment like reading! How much sooner one tires of any thing than of a book! -- When I have a house of my own, I shall be miserable if I have not an excellent library.",
+        "authors": "Jane Austen",
+        "tags": ["books", "library", "reading"]
+    },
+    {
+        "Id": 84,
+        "quotes": "There are few people whom I really love, and still fewer of whom I think well. The more I see of the world, the more am I dissatisfied with it; and every day confirms my belief of the inconsistency of all human characters, and of the little dependence that can be placed on the appearance of merit or sense.",
+        "authors": "Jane Austen",
+        "tags": ["elizabeth-bennet", "jane-austen"]
+    },
+    {
+        "Id": 85,
+        "quotes": "Some day you will be old enough to start reading fairy tales again.",
+        "authors": "C.S. Lewis",
+        "tags": ["age", "fairytales", "growing-up"]
+    },
+    {
+        "Id": 86,
+        "quotes": "We are not necessarily doubting that God will do the best for us; we are wondering how painful the best will turn out to be.",
+        "authors": "C.S. Lewis",
+        "tags": ["god"]
+    },
+    {
+        "Id": 87,
+        "quotes": "The fear of death follows from the fear of life. A man who lives fully is prepared to die at any time.",
+        "authors": "Mark Twain",
+        "tags": ["death", "life"]
+    },
+    {
+        "Id": 88,
+        "quotes": "A lie can travel half way around the world while the truth is putting on its shoes.",
+        "authors": "Mark Twain",
+        "tags": ["misattributed-mark-twain", "truth"]
+    },
+    {
+        "Id": 89,
+        "quotes": "I believe in Christianity as I believe that the sun has risen: not only because I see it, but because by it I see everything else.",
+        "authors": "C.S. Lewis",
+        "tags": ["christianity", "faith", "religion", "sun"]
+    }
+]
